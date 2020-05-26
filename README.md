@@ -1,4 +1,4 @@
-# Data Processing
+# Data Preprocessing
 
 As a part of Data Processing there are numerous terms that are being used in Machine Learning and Data Science, this repository will hold the code for such Data Cleaning, Data Processing, Data Pre-processing, Data Transformations, Feature Engineering, etc.
 
